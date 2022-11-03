@@ -1,6 +1,6 @@
 from django.db import models
 from apps.items.models import Item
-
+# commited from replit
 
 class Review(models.Model):
     class Meta(object):
